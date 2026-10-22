@@ -1,7 +1,13 @@
 # deeplinkit for Swift
 
-In Xcode, choose File → Add Package Dependencies and enter https://github.com/paulxuca/deeplinkit-spm. Add the deeplinkit product to your app target, then use `import DeepLinkKit`.
+In Xcode, choose File → Add Package Dependencies and enter https://github.com/paulxuca/deeplinkit-spm. Add the deeplinkit product to your app target, then use `import Deeplinkit`.
 
 Requires iOS 15 or later. Includes compiled SDKs for iOS devices and simulators. SDK implementation is maintained in a separate private repository.
 
 See [deeplinkit](https://deeplinkit.com) for setup and documentation.
+
+```swift
+import Deeplinkit
+
+let sdk = Deeplinkit(applicationId: "your_app_id")
+```
