@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "deeplinkit",
     platforms: [.iOS(.v15)],
-    products: [.library(name: "DeepLinkKit", targets: ["DeepLinkKit"])],
+    products: [.library(name: "deeplinkit", targets: ["DeepLinkKit"])],
     targets: [.binaryTarget(
         name: "DeepLinkKit",
         url: "https://github.com/paulxuca/deeplinkit-spm/releases/download/0.6.1/DeepLinkKit.xcframework.zip",
