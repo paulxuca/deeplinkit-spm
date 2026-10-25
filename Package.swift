@@ -7,7 +7,7 @@ let package = Package(
     products: [.library(name: "deeplinkit", targets: ["Deeplinkit"])],
     targets: [.target(name: "Deeplinkit", dependencies: ["DeepLinkKit"]), .binaryTarget(
         name: "DeepLinkKit",
-        url: "https://github.com/paulxuca/deeplinkit-spm/releases/download/0.6.4/DeepLinkKit.xcframework.zip",
-        checksum: "f553030edc291569fb3cce9dca7123db70caf58097c64e8501c31a3219627480"
+        url: "https://github.com/paulxuca/deeplinkit-spm/releases/download/0.7.1/DeepLinkKit.xcframework.zip",
+        checksum: "6f8ee1b4bdd300bdfa3f9e79d0900074225680b6dc52469a348343733b2aadaf"
     )]
 )
