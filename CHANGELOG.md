@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.9.9
+
+Includes SDK license terms. No API changes.
+
 ## 0.9.8
 
 Maintenance release. No API changes.
