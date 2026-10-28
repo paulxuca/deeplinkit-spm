@@ -1,3 +1,47 @@
-Copyright (c) Paul Xu. All rights reserved.
+deeplinkit SDK License
 
-Proprietary software. Distribution of this binary does not grant permission to redistribute or modify it. Use is subject to your deeplinkit agreement.
+Copyright (c) 2026 Paul Xu. All rights reserved.
+
+This license applies to the deeplinkit browser, React Native and Swift SDKs
+(the "SDK"). It does not license the deeplinkit server software or service.
+
+1. Permitted use
+Subject to this license and any applicable agreement with Paul Xu or the
+provider of the deeplinkit service ("Licensor"), Licensor grants you a limited,
+non-exclusive, non-transferable license to install, integrate and use the SDK
+in applications and websites you develop or operate, solely to access the
+deeplinkit service. You may copy and distribute the SDK as an embedded part of
+those applications and websites, including through app stores and delivery of
+browser code. Your users may run the embedded SDK as part of your application.
+Ordinary integration, bundling and minification for that purpose are permitted.
+This license does not grant access to the service beyond your authorized plan.
+
+2. Restrictions
+Except as expressly permitted above, in a separate written agreement or by
+applicable law, you may not sell, sublicense, rent or distribute the SDK on a
+standalone basis; publish or redistribute its implementation source; modify
+or create derivative works of the SDK; or reverse engineer, decompile or
+disassemble it. You may not remove copyright or license notices, circumvent
+service access controls or use the SDK to provide an unauthorized competing
+copy of the deeplinkit service. Preserve this license and applicable notices
+with copies of the SDK; an application's bundled legal notices may be used.
+
+3. Ownership and other terms
+The SDK is licensed, not sold. Licensor retains all rights not expressly
+granted. No trademark rights are granted. Third-party components remain
+subject to their own licenses; this license does not restrict rights granted
+by those licenses. Any separately agreed SDK license terms take precedence
+over conflicting provisions here. Applicable service terms govern your use
+of the deeplinkit service. A material breach of this license terminates the
+granted rights, and you must stop using and distributing the SDK.
+
+4. Disclaimer and liability
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SDK IS PROVIDED "AS IS"
+AND "AS AVAILABLE", WITHOUT WARRANTIES OF ANY KIND, INCLUDING MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OR UNINTERRUPTED OPERATION.
+LICENSOR IS NOT LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR
+PUNITIVE DAMAGES, OR LOST PROFITS, REVENUE OR DATA, ARISING FROM THE SDK.
+LICENSOR'S TOTAL LIABILITY ARISING FROM THE SDK WILL NOT EXCEED THE AMOUNT
+PAID BY YOU FOR THE SDK DURING THE PRECEDING TWELVE MONTHS, OR USD 100 IF NO
+AMOUNT WAS PAID. THESE LIMITATIONS APPLY ONLY TO THE EXTENT PERMITTED BY LAW
+AND DO NOT OVERRIDE LIABILITY TERMS IN A SEPARATE AGREEMENT WITH LICENSOR.
